@@ -1,2 +1,2 @@
-# oqq
-Ontology model for qualitative description of quantitative information
+# Ontology model for qualitative description of quantitative information
+
